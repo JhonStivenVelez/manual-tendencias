@@ -1,3 +1,8 @@
-# My Awesome Book
+# Manual Entorno del Curso - Tendencias Disruptivas en TI
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+El presente documento representa el resultado del reconocimiento de la estructura general del curso, y su objetivo es servir de guia al estudiante para hacerse a una idea clara de cuales son los elementos presentes en el campus para la asignatura _**Tendencias Disruptivas en TI**_.
+
+
+
+ 
+
